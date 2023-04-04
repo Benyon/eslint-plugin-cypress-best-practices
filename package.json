@@ -1,0 +1,9 @@
+{
+  "name": "eslint-plugin-cypress-best-practices",
+  "version": "1.0.0",
+  "author": "Jordan Benyon <jordanbenyon@icloud.com>",
+  "main": "index.js",
+  "peerDependencies": {
+    "eslint": ">= 6"
+  }
+}
