@@ -74,7 +74,7 @@ class HomePage {
 }
 ```
 
-## `no-duplicate-selectors`
+## `no-simple-selectors`
 
 Any literal string selector that is only alphanumeric will be flagged.
 
