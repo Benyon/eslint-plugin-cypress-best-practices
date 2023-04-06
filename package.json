@@ -1,9 +1,10 @@
 {
   "name": "eslint-plugin-cypress-best-practices",
   "description": "An ESLint plugin for your Cypress tests.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "Jordan Benyon <jordanbenyon@icloud.com>",
   "main": "index.js",
+  "keywords": ["cypress", "eslint", "eslintplugin"],
   "repository": {
     "type": "git",
     "url": "https://github.com/Benyon/eslint-plugin-cypress-best-practices"
